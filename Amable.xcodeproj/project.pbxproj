@@ -15,6 +15,7 @@
 		AA8C38041D88862D00E2D629 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA8C38021D88862D00E2D629 /* LaunchScreen.storyboard */; };
 		AA8C380F1D88862D00E2D629 /* AmableTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA8C380E1D88862D00E2D629 /* AmableTests.swift */; };
 		AA8C381A1D88862D00E2D629 /* AmableUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA8C38191D88862D00E2D629 /* AmableUITests.swift */; };
+		AA8C38281D88868700E2D629 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = AA8C38271D88868700E2D629 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		AA8C38151D88862D00E2D629 /* AmableUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AmableUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA8C38191D88862D00E2D629 /* AmableUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmableUITests.swift; sourceTree = "<group>"; };
 		AA8C381B1D88862D00E2D629 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA8C38271D88868700E2D629 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		AA8C37EB1D88862D00E2D629 = {
 			isa = PBXGroup;
 			children = (
+				AA8C38271D88868700E2D629 /* README.md */,
 				AA8C37F61D88862D00E2D629 /* Amable */,
 				AA8C380D1D88862D00E2D629 /* AmableTests */,
 				AA8C38181D88862D00E2D629 /* AmableUITests */,
@@ -261,6 +264,7 @@
 			files = (
 				AA8C37FC1D88862D00E2D629 /* SecondViewController.swift in Sources */,
 				AA8C37F81D88862D00E2D629 /* AppDelegate.swift in Sources */,
+				AA8C38281D88868700E2D629 /* README.md in Sources */,
 				AA8C37FA1D88862D00E2D629 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
